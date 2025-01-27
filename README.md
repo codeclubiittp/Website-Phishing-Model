@@ -15,6 +15,13 @@
    - Attempts to establish an SSH connection using the `paramiko` library.
 
 ## Installation and Execution
+#### Environemnt Variables
+Replace your Shodan and WhoIsFreaks API in the ./modules/.env file
+```bash
+SHODAN_API_KEY =""
+WHOISFREAKS_API_KEY = ""
+```
+
 #### Installing the requirements
 ```bash
 python -m venv env
