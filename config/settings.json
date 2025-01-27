@@ -1,0 +1,9 @@
+{
+    "api_keys": {
+        "shodan": "your_shodan_api_key",
+        "virustotal": "your_virustotal_api_key"
+    },
+    "rate_limits": {
+        "requests_per_second": 5
+    }
+}
